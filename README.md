@@ -11,4 +11,5 @@ Software: **Jupyter Notebook**
 
 ### 1. Naive Random Oversampling
 
-![NaiveRandomOversampling](https://github.com/alosmad/PyBer_Analysis/blob/27ceca9248b86f31bbc874106907154bd8a7b9cd/pybersummary.png)
+![NaiveRandomOversampling](https://github.com/alosmad/Credit_Risk_Analysis/blob/26fea341c038f9dd34a1c7b3ceb687cff531ba73/NaiveRandomOversampling.png)
+
